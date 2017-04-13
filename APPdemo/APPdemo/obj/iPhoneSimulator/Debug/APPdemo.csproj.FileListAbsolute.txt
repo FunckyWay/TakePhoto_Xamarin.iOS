@@ -1,0 +1,12 @@
+C:\Users\hoptech\Documents\Visual Studio 2015\Projects\APPdemo\APPdemo\bin\iPhoneSimulator\Debug\APPdemo.exe
+C:\Users\hoptech\Documents\Visual Studio 2015\Projects\APPdemo\APPdemo\bin\iPhoneSimulator\Debug\APPdemo.pdb
+C:\Users\hoptech\Documents\Visual Studio 2015\Projects\APPdemo\APPdemo\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\hoptech\Documents\Visual Studio 2015\Projects\APPdemo\APPdemo\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\hoptech\Documents\Visual Studio 2015\Projects\APPdemo\APPdemo\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\hoptech\Documents\Visual Studio 2015\Projects\APPdemo\APPdemo\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\Users\hoptech\Documents\Visual Studio 2015\Projects\APPdemo\APPdemo\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\hoptech\Documents\Visual Studio 2015\Projects\APPdemo\APPdemo\obj\iPhoneSimulator\Debug\APPdemo.csprojResolveAssemblyReference.cache
+C:\Users\hoptech\Documents\Visual Studio 2015\Projects\APPdemo\APPdemo\obj\iPhoneSimulator\Debug\APPdemo.exe
+C:\Users\hoptech\Documents\Visual Studio 2015\Projects\APPdemo\APPdemo\obj\iPhoneSimulator\Debug\APPdemo.pdb
+C:\Users\hoptech\Documents\Visual Studio 2015\Projects\APPdemo\APPdemo\obj\iPhoneSimulator\Debug\APPdemo.exe.mdb
+C:\Users\hoptech\Documents\Visual Studio 2015\Projects\APPdemo\APPdemo\bin\iPhoneSimulator\Debug\APPdemo.exe.mdb
